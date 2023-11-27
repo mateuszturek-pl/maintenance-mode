@@ -4,7 +4,7 @@ Plugin Name: Maintenance Mode
 Plugin URI: https://mateuszturek.pl/
 Description: Wtyczka umożliwiająca włączenie trybu konserwacji, blokując dostęp do witryny dla niezalogowanych użytkowników.
 Version: 1.4
-Author: Selectors
+Author: Mateusz Turek
 Author URI: https://mateuszturek.pl/
 License: GPLv2 or later
 Text Domain: maintenance-mode
